@@ -9,7 +9,7 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 # Work Experience (only last 10 years)
 
-## University Name 1 (City, State)
+## University of Washington (Seattle, Washington)
 
 * [University 1][] description, particularly if not well-known.*
 
