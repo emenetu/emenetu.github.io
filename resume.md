@@ -1,6 +1,6 @@
-# Your Name
+# Emenetu Haileselassie
 
-your.name@example.com
+emenetu@uw.edu
 
 http://www.example.com
 
