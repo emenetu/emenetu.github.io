@@ -2,10 +2,7 @@
 
 emenetu@uw.edu
 
-http://www.example.com
-
-http://www.linkedin.com/in/yourname
-
+https://www.linkedin.com/in/emenetu-haileselassie-598a3515b/
 # Summary
 
 Quick Summary (not objective) specifically highlighting why you qualify for the job.
